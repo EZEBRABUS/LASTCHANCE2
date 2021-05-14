@@ -1,0 +1,15 @@
+#father {
+    background-color: rgb(43, 43, 170);
+    color: white;
+}
+#mother {
+    background-color: rgb(60, 108, 199);
+    color: white;
+}
+h1 {
+    background-color: white;
+    color: black;
+}
+ol {
+    background-color: black;
+}
